@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 		
-		int a = 3;
+		int c = 10;
 		int b = 4;
 
         Handler handler = new Handler(){
