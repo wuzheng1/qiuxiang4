@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 		
 		int a = 3;
+		int b = 4;
 
         Handler handler = new Handler(){
             @Override
